@@ -1,0 +1,11 @@
+### Category page
+GET http://localhost:8080/u/user123/s/category123
+
+### User page
+GET http://localhost:8080/u/user123
+
+### Post page
+GET http://localhost:8080/u/user123/p/post123
+
+### Post page with query params
+GET http://localhost:8080/u/user123/p/post123?id=post123
